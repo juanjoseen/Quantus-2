@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Actividad_2_ViewController.h
 //  Quantus
 //
 //  Created by Carlos Uribe on 22/09/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface Actividad_2_ViewController : UIViewController
 
 @end
